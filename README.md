@@ -15,7 +15,7 @@ Certifications and job simulations completed by **Pragga Barua**, a Computer Sci
 | 2 | IT Customer Support Basics | Cisco | Nov 2026 | [View PDF](ITCustomerSupportBasics.pdf) | [Verify](https://www.credly.com/badges/ba2f0c3c-1f83-4972-aab9-150765e7ba01) |
 | 3 | GenAI Powered Data Analytics Job Simulation | Tata iQ (via Forage) | 2025 | [View PDF](TATA_GEN_AI_completion_certificate.pdf) | [Verify](https://www.theforage.com/simulations/tata/data-analytics-t3zr/completed) |
 | 4 | Data Analytics Job Simulation | Deloitte Australia (via Forage) | 2025 | [View PDF](Deloitte_completion_certificate.pdf) | [Verify](https://www.theforage.com/simulations/deloitte-au/data-analytics-s5zy/completed) |
-| 5 | Microsoft Learn Certificate | Microsoft | [Year] | [View PDF](ms_learn.pdf) | — |
+| 5 | Microsoft Learn Certificate | Microsoft | [Year] | [View PDF](ms_learn.pdf) | [Verify](https://learn.microsoft.com/api/achievements/share/en-us/PraggaBarua-7338/82E52P5W?sharingId=91138CA71121BC18) |
 
 ---
 
@@ -41,7 +41,9 @@ Certifications and job simulations completed by **Pragga Barua**, a Computer Sci
 - Used **Excel** to classify data and draw business conclusions
 
 ### Microsoft Learn
-- [Add the module/path name and what it covered]
+- Identify the capabilities of Microsoft Fabric.
+- Implement Microsoft Fabric to meet your enterprise's analytics needs.
+- Describe how Fabric supports AI capabilities through Copilot, data agents, and Fabric IQ.
 
 ---
 
